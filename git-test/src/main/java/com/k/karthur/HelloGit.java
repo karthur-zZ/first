@@ -5,4 +5,7 @@ public class HelloGit {
 		// TODO Auto-generated constructor stub
 	}
 
+	public void tes(){
+		
+	}
 }
